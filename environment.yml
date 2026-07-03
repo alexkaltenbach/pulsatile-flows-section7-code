@@ -1,0 +1,12 @@
+name: pulsatile-flows-section7
+channels:
+  - conda-forge
+dependencies:
+  - python=3.8
+  - fenics=2019.1.0
+  - mumps
+  - numpy
+  - scipy
+  - sympy
+  - matplotlib
+  - pip

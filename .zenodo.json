@@ -1,0 +1,30 @@
+{
+  "title": "Numerical experiments for Pulsatile Flows for Simplified Smart Fluids with Variable Exponent Power-Law",
+  "upload_type": "software",
+  "description": "FEniCS/DOLFIN source code, runner scripts, plotting scripts, and regenerated figures for the numerical experiments in Sections 7.1--7.3 of the article \"Pulsatile Flows for Simplified Smart Fluids with Variable Exponent Power-Law: Analysis and Numerics\".",
+  "creators": [
+    {
+      "name": "Berselli, Luigi C.",
+      "affiliation": "Department of Mathematics, University of Pisa, Via F. Buonarroti 1/c, 56127 Pisa, Italy"
+    },
+    {
+      "name": "Kaltenbach, Alex",
+      "affiliation": "Institute of Mathematics, Technical University of Berlin, Strasse des 17. Juni 136, 10623 Berlin, Germany"
+    }
+  ],
+  "license": "BSD-3-Clause",
+  "version": "1.0.0",
+  "publication_date": "2026-07-03",
+  "access_right": "open",
+  "keywords": [
+    "FEniCS",
+    "DOLFIN",
+    "finite elements",
+    "p-Laplace",
+    "p-Navier-Stokes",
+    "variable exponent",
+    "pulsatile flow",
+    "smart fluids"
+  ],
+  "related_identifiers": []
+}

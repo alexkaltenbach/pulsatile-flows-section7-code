@@ -1,0 +1,37 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.DS_Store
+.matplotlib-cache/
+.pytest_cache/
+
+# Generated Section 7.1 and Section 7.2 data.
+pLaplaceMixed/Womersley1/
+pLaplaceMixed/Womersley5/
+pLaplaceMixed/Womersley10/
+pLaplaceMixed/Const15/
+pLaplaceMixed/Const25/
+pLaplaceMixed/Sym1/
+pLaplaceMixed/NonSym2/
+
+# Generated Section 7.3 snapshots.
+pNavierStokesMixed/Comparison/
+pNavierStokesMixed/Comparison1D/
+pNavierStokesMixed/errors.pkl
+pNavierStokesMixed/errors2.pkl
+
+# Common generated solver and visualization files.
+*.h5
+*.xdmf
+*.pvd
+*.vtu
+
+# Keep regenerated paper figures explicit.
+!pLaplaceMixed/plots/Figure5.*
+!pLaplaceMixed/plots/Figure6.*
+!pLaplaceMixed/plots/Figure7.*
+!pLaplaceMixed/plots/Figure8.*
+!pLaplaceMixed/plots/Figure9.*
+!pNavierStokesMixed/plots/Figure11.*
+!pNavierStokesMixed/plots/Figure12_pressure.*
+!pNavierStokesMixed/plots/Figure12_velocity.*

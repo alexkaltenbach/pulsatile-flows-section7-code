@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article and the archived software release."
+title: "Numerical experiments for Pulsatile Flows for Simplified Smart Fluids with Variable Exponent Power-Law"
+type: software
+authors:
+  - family-names: "Berselli"
+    given-names: "Luigi C."
+    affiliation: "Department of Mathematics, University of Pisa, Via F. Buonarroti 1/c, 56127 Pisa, Italy"
+  - family-names: "Kaltenbach"
+    given-names: "Alex"
+    affiliation: "Institute of Mathematics, Technical University of Berlin, Strasse des 17. Juni 136, 10623 Berlin, Germany"
+version: "1.0.0"
+date-released: "2026-07-03"
+license: "BSD-3-Clause"
+keywords:
+  - "FEniCS"
+  - "DOLFIN"
+  - "finite elements"
+  - "p-Laplace"
+  - "p-Navier-Stokes"
+  - "variable exponent"
+  - "pulsatile flow"
+preferred-citation:
+  type: article
+  title: "Pulsatile Flows for Simplified Smart Fluids with Variable Exponent Power-Law: Analysis and Numerics"
+  authors:
+    - family-names: "Berselli"
+      given-names: "Luigi C."
+    - family-names: "Kaltenbach"
+      given-names: "Alex"
+  year: 2026

@@ -1,0 +1,8 @@
+# Python-level dependencies.
+#
+# FEniCS/DOLFIN 2019.1.0 is required and is best installed via Conda,
+# Docker, or a system package manager rather than plain pip.
+numpy
+scipy
+sympy
+matplotlib
