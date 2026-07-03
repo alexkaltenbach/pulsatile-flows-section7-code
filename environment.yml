@@ -1,4 +1,4 @@
-name: pulsatile-flows-section7
+name: pulsatile-smart-fluids
 channels:
   - conda-forge
 dependencies:

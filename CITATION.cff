@@ -13,7 +13,7 @@ version: "1.0.0"
 date-released: "2026-07-03"
 license: "BSD-3-Clause"
 doi: "10.5281/zenodo.21179010"
-url: "https://github.com/alexkaltenbach/pulsatile-flows-section7-code"
+url: "https://github.com/alexkaltenbach/pulsatile-smart-fluids-code"
 keywords:
   - "FEniCS"
   - "DOLFIN"

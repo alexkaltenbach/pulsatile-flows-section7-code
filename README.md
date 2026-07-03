@@ -1,7 +1,8 @@
-# Numerical experiments for Sections 7.1--7.3
+# Code for pulsatile smart-fluid flows
 
-This repository contains the code used for the numerical experiments in
-Sections 7.1--7.3 of the article on pulsatile flows for simplified smart fluids.
+This repository contains the FEniCS/DOLFIN code accompanying the article
+"Pulsatile Flows for Simplified Smart Fluids with Variable Exponent Power-Law:
+Analysis and Numerics".
 
 The package is prepared for publication via GitHub and archival via Zenodo. It
 contains the experiment code, plotting scripts, and regenerated paper figures.
@@ -38,7 +39,7 @@ One way to create a suitable Conda environment is
 
 ```bash
 conda env create -f environment.yml
-conda activate pulsatile-flows-section7
+conda activate pulsatile-smart-fluids
 ```
 
 Depending on the platform, installing FEniCS/DOLFIN 2019.1.0 via Docker or a
