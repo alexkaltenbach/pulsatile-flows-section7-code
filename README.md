@@ -147,5 +147,5 @@ The package contains:
 - `CITATION.cff` with software and associated-article citation metadata,
 - `.zenodo.json` with Zenodo deposition metadata.
 
-After creating the GitHub release and the Zenodo archive, replace the final
-GitHub URL and Zenodo DOI in `CODE_AVAILABILITY.md`.
+The archived release is available on Zenodo at
+https://doi.org/10.5281/zenodo.21179010.
